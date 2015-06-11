@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">XOR</string>
+    <string name="input">Input:\n</string>
+    <string name="output">\nOutput:\n</string>
+    <string name="action_settings">Settings</string>
+</resources>
